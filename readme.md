@@ -65,11 +65,4 @@ X 表示一个 strike
 输出：167
 ```
 
-### 答题流程
-1. 请用户仔细阅读题目描述
-2. 使用`git clone`克隆模板仓库，或`fork`模板仓库到自己的`github`上
-3. 请在 `src/main/java/BowlingGame.java` 完成 `getBowlingScore` 函数
-4. 请使用**git提交(commit)，**并**上传(push)**代码，之后将github仓库地址(用户自建的) eg:（https://github.com/username/repo） 填入到**git仓库地址**一栏
-5. 获取分支，填入到**git仓库分支**一栏
-6. 提交
-7. 等待结果
+
